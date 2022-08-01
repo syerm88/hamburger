@@ -1,0 +1,20 @@
+.c-background--brown--perl {
+  background: #FFF7EF;
+}
+.c-background--white--transparent {
+  background: rgba(255, 255, 255, 0.8);
+}
+.c-background--light--brown {
+  background: #F2EDE9;
+}
+
+.c-color--gray {
+  color: #707070;
+}
+.c-color--dark--brown {
+  color: #3C2A10;
+}
+.c-color--color--white {
+  color: #fff;
+}
+/*# sourceMappingURL=style.css.map */
